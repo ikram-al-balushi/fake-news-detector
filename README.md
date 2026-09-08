@@ -6,6 +6,19 @@ Built end-to-end — from data cleaning and model training to a working Flask we
 Machine Learning project, built as part of my journey from full-stack web developer toward becoming an **AI Engineer**.
 
 ---
+## 🧪 Example Predictions
+
+**Fake News (predicted as FAKE):**
+- "BREAKING: Government giving free laptops, register now before midnight!" → **FAKE**
+- "SHOCKING: Doctors hate this trick that cures diabetes overnight!" → **FAKE**
+- "You have been charged 50000 rupees, click this link within 2 hours!" → **FAKE**
+
+**Real News (predicted as REAL):**
+- "The State Bank announced a revised policy after a review meeting on Monday." → **REAL**
+- "The health department reported a decline in reported cases this week." → **REAL**
+- "Parliament passed a bill on electronic waste disposal after a debate." → **REAL**
+
+
 
 ##  Why I Built This
 
