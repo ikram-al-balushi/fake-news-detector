@@ -3,7 +3,7 @@
 A machine learning web application that classifies news text as **REAL** or **FAKE**.  
 Built end-to-end — from data cleaning and model training to a working Flask web app.
 
-This is my first Machine Learning project, built as part of my journey from full-stack web developer toward becoming an **AI Engineer**.
+Machine Learning project, built as part of my journey from full-stack web developer toward becoming an **AI Engineer**.
 
 ---
 
